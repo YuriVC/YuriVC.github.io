@@ -51,7 +51,7 @@ body {
     background-color: black;
     display: flex;
     color: white;
-    border: 20px;
+    border: 20px solid;
     text-decoration: none;
     border-radius: 10px;
     padding: 5px;
