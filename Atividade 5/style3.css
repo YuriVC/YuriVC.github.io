@@ -65,7 +65,7 @@ body {
     background-color: black;
     display: flex;
     color: white;
-    border-radius: 10px;
+    border-radius: 3px;
     max-width: 200px;
     white-space: nowrap;
 }
