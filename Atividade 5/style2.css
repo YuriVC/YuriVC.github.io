@@ -1,0 +1,32 @@
+body {
+    background-color: #DDDDDD;
+}
+
+.top {
+    display: flex;
+}
+
+img {
+    width: 10em;
+    margin-left: 100px;
+}
+
+div {
+    color: red;
+}
+
+.cell1 {
+    background-color: orange;
+    color: red;
+    text-align: center;
+    padding: 10px;
+}
+
+.cell2 {
+
+background-color: yellow;
+color: red;
+text-align: right;
+padding: 10px;
+}
+
