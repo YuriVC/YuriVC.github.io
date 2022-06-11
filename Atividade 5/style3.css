@@ -57,7 +57,6 @@ body {
     padding: 5px;
     max-width: 200px;
     text-align: center;
-    border-radius: 3px;
 }
 
 .button2 {
@@ -68,9 +67,4 @@ body {
     border-radius: 3px;
     max-width: 200px;
     white-space: nowrap;
-}
-
-nav {
-    
-
 }
